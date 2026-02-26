@@ -1,4 +1,9 @@
-# Steam Game Review Analysis Project
+# Feature-based-Sentiment-Analysis-For-Games
+
+This study focuses on aspect-based sentiment analysis of Turkish user reviews for digital games. The goal is to classify sentiments (positive/negative/neutral) for specific features such as graphics, AI, and gameplay, even within complex sentences (e.g., “The graphics are good, but the AI is bad”). A language filter ensures only Turkish reviews are analyzed.
+The model was trained on the labeled dataset and tested using NLP techniques for feature extraction and machine learning for sentiment classification, this approach aims to provide detailed insights for game developers and improve user feedback evaluation.
+
+## Please check the `REPORT-PDF-Feature-based-Sentiment-Analysis-For-Games.pdf` or `REPORT-PDF-Feature-based-Sentiment-Analysis-For-Games.pptx` for a detailed report on the project, including methodology, results, and conclusions.
 
 This project focuses on scraping game details and user reviews from Steam, followed by cleaning and preparing the review data for analysis. The project is divided into three main parts:
 
